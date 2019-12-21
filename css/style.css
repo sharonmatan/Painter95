@@ -1,0 +1,96 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  height: 570px;
+  width: 500px;
+  border: 2px solid rgb(136, 136, 136);
+  margin: 0 auto;
+  border-radius: 11px;
+  box-shadow: 0 6px 12px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.canvas {
+  height: 470px;
+  width: 462px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 12px;
+  position: relative;
+  margin: auto;
+}
+
+.button {
+  width: 50px;
+  font-size: 30px;
+}
+
+.nav {
+  height: 70px;
+  width: 496px;
+  border-bottom: 2px solid rgb(136, 136, 136);
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 13px;
+  background-color: #ecf9ff;
+}
+
+.choosingColor {
+  height: 40px;
+  width: 40px;
+  border: 1px solid rgb(136, 136, 136);
+  padding: 2px;
+  margin: 2px;
+  border-radius: 4px;
+}
+
+.choosingColor:hover {
+  box-shadow: gray 1.5px 1.5px;
+}
+
+.sidebar {
+  max-width: 50px;
+  height: 50px;
+  border: 1px solid rgb(136, 136, 136);
+  padding: 2px;
+  margin: 2px;
+  border-radius: 4px;
+}
+
+.sidebar:hover {
+  box-shadow: gray 1.5px 1.5px;
+}
+
+#black {
+  background-color: black;
+}
+
+#blue {
+  background-color: rgb(72, 36, 173);
+}
+
+#yellow {
+  background-color: rgb(197, 236, 24);
+}
+
+#pink {
+  background-color: rgb(219, 13, 185);
+}
+
+#red {
+  background-color: rgb(214, 26, 26);
+}
+
+#green {
+  background-color: rgb(17, 207, 58);
+}
+
+.black {
+  background-color: black;
+}
