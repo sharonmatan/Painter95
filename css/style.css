@@ -7,7 +7,7 @@
 .container {
   height: 570px;
   width: 500px;
-  border: 2px solid rgb(136, 136, 136);
+  border: 2.2px solid rgb(136, 136, 136);
   margin: 0 auto;
   border-radius: 11px;
   box-shadow: 0 6px 12px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
