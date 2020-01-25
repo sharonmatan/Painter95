@@ -1,3 +1,0 @@
-Very tough and challenging  assignment.
-A lot of google searching and back to all the presentations we learned this week .
-In my opinion, the most interesting part was to find a way to use the mousedown\mousemove\mouseup elements.
